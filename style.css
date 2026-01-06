@@ -85,3 +85,8 @@ button{
     margin: auto;
     color:#eee
 }
+
+span {
+  color: #f59e0b; 
+  font-size: 14px;
+}
